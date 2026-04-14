@@ -1,4 +1,4 @@
-# Project 01 — Real Estate Market Intelligence Agent
+Real Estate Market Intelligence Agent
 
 ![Level](https://img.shields.io/badge/Level-Advanced-purple)
 ![Industry](https://img.shields.io/badge/Industry-Real%20Estate-green)
