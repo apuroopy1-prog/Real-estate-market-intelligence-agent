@@ -1,0 +1,5 @@
+[
+  {"property": {"address": "123 Oak St, Austin TX", "type": "SFR", "beds": 3, "baths": 2, "sqft": 1800, "year_built": 2005, "asking": 450000}, "expected_recommendation": "buy"},
+  {"property": {"address": "456 Maple Ave, Denver CO", "type": "Condo", "beds": 2, "baths": 1, "sqft": 950, "year_built": 2018, "asking": 380000}, "expected_recommendation": "hold"},
+  {"property": {"address": "789 Pine Rd, Miami FL", "type": "SFR", "beds": 4, "baths": 3, "sqft": 2400, "year_built": 1995, "asking": 720000}, "expected_recommendation": "sell"}
+]

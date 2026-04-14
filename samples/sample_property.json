@@ -1,0 +1,16 @@
+{
+  "address": "2847 Lakeview Drive, Austin, TX 78701",
+  "property_type": "Single Family Residence",
+  "bedrooms": 4,
+  "bathrooms": 2.5,
+  "sqft": 2200,
+  "year_built": 2008,
+  "asking_price": 575000,
+  "condition": "good",
+  "additional_notes": {
+    "garage": "2-car attached",
+    "lot_size_sqft": 7500,
+    "recent_updates": "new roof 2022, HVAC 2021",
+    "school_district": "Austin ISD - rated 8/10"
+  }
+}

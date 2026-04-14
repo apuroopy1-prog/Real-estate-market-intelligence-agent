@@ -1,0 +1,19 @@
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: real-estate-agent
+spec:
+  template:
+    spec:
+      containers:
+        - image: gcr.io/PROJECT_ID/real-estate-agent:latest
+          env:
+            - name: OPENAI_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: openai-key
+                  key: latest
+          resources:
+            limits:
+              memory: 1Gi
+              cpu: "1"
